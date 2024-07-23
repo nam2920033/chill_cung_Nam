@@ -29,7 +29,7 @@ noButton.addEventListener("click", function () {
 function handleYesClick() {
   titleElement.innerHTML = "oke không muốn chúc thì thôi";
   buttonsContainer.classList.add("hidden");
-  changeImage("yes");
+  changeImage("Đéo");
 }
 
 function resizeYesButton() {
